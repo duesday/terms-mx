@@ -15,11 +15,7 @@ a:hover {
     text-decoration: underline; 
 }
 
-header h1 {
-    content: "Version 1.0 (14)";
-}
-
-header .view {
+header {
     display: none;   
 }
 
@@ -38,6 +34,6 @@ header .view {
     border-bottom: 1px solid #ffaf25; 
 }
 
-footer small {
+footer {
     display: none;   
 }
