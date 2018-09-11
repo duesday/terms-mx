@@ -2,3 +2,18 @@
 ---
 
 @import "{{ site.theme }}";
+
+.wrapper {
+    position: relative;
+    top: 150px;
+}
+
+.wrapper section > p {
+    position: fixed;
+    top: 0;
+    background: #ffffff;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    border-bottom: 1px solid #ffaf25; 
+}
