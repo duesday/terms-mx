@@ -20,6 +20,10 @@ header {
     margin-top: 240px;
 }
 
+header p.view {
+    display: none;   
+}
+
 .wrapper section>p:first-child {
     width: 100%;
     position: fixed;
@@ -41,6 +45,6 @@ header {
     height: 120px;
 }
 
-footer small {
+footer {
     display: none;   
 }
