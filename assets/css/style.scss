@@ -11,6 +11,10 @@ a {
     color: #ffaf25;   
 }
 
+a:hover {
+    text-decoration: underline; 
+}
+
 header h1 {
     content: "Version 1.0 (14)";
 }
