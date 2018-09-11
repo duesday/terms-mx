@@ -1,3 +1,5 @@
+![Duesday logo](http://d7zgbk06ve7c.cloudfront.net/assets/110050/kwafw67ad65lmoep920v/duesday-logo.png)
+
 ## Terms and Conditions
 
 iOS Alpha v1.0 (14) - 01 March 2018
