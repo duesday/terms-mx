@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-body {
+p {
     color: #084c61;
 }
 
@@ -12,6 +12,7 @@ a {
 }
 
 a:hover {
+    color: #ffaf25;
     text-decoration: underline; 
 }
 
