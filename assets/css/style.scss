@@ -16,16 +16,16 @@ a:hover {
     text-decoration: underline; 
 }
 
-header h1 a {
+header h1 a:after  {
     content: 't and cs';   
-}
-
-header {
-    margin-top: 120px;
 }
 
 header p.view {
     display: none;   
+}
+
+.wrapper {
+    margin-top: 150px;
 }
 
 .wrapper section>p:first-child {
@@ -36,10 +36,6 @@ header p.view {
     top: 0;
     text-align: center;
     padding: 20px 0;
-}
-
-#terms-and-conditions {
-    margin-top: 120px;
 }
 
 .wrapper section > p {
