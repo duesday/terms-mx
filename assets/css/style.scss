@@ -16,8 +16,12 @@ a:hover {
     text-decoration: underline; 
 }
 
+header h1 a {
+    content: 't and cs';   
+}
+
 header {
-    margin-top: 240px;
+    margin-top: 120px;
 }
 
 header p.view {
@@ -26,6 +30,7 @@ header p.view {
 
 .wrapper section>p:first-child {
     width: 100%;
+    background: #ffffff;
     position: fixed;
     left: 0;
     top: 0;
