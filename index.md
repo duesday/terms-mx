@@ -1,5 +1,3 @@
-![Duesday logo](http://duesday.com/img/logo-duesday-full-colour@2x.png)
-
 ## Terms and Conditions
 
 iOS Alpha v1.0 (14) - 01 March 2018
