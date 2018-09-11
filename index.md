@@ -1,4 +1,4 @@
-![Duesday logo](http://d7zgbk06ve7c.cloudfront.net/assets/110050/kwafw67ad65lmoep920v/duesday-logo.png)
+[![Duesday logo](http://d7zgbk06ve7c.cloudfront.net/assets/110050/kwafw67ad65lmoep920v/duesday-logo.png)](http://duesday.com/)
 
 ## Terms and Conditions
 
