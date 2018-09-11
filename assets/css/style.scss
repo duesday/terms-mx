@@ -16,8 +16,12 @@ a:hover {
     text-decoration: underline; 
 }
 
-header h1 a:after  {
-    content: 't and cs';   
+header h1 a  {
+    display: none; 
+}
+
+header h1:after  {
+    content: 'Version 1.0 (14)';   
 }
 
 header p.view {
