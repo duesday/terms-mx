@@ -21,18 +21,13 @@ header {
 }
 
 .wrapper {
-    position: relative;
-    top: 150px;
 }
 
-.wrapper > header + section > p {
-    position: fixed;
-    top: 0;
+.wrapper section > p {
     background: #ffffff;
     width: 100%;
     left: 0;
     text-align: center;
-    border-bottom: 1px solid #ffaf25; 
 }
 
 footer {
