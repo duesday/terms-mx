@@ -1,8 +1,3 @@
----
----
-
-@import "{{ site.theme }}";
-
 ![Duesday logo](http://duesday.com/img/logo-duesday-full-colour@2x.png)
 
 ## Terms and Conditions
