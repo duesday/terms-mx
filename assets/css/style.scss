@@ -21,13 +21,8 @@ header {
 }
 
 .wrapper {
-}
-
-.wrapper section > p {
-    background: #ffffff;
-    width: 100%;
-    left: 0;
-    text-align: center;
+    float: left;
+    max-width: 800px;
 }
 
 footer {
