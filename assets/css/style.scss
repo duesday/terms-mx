@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+body {
+    color: #084c61;
+}
+
+a {
+    color: #ffaf25;   
+}
+
 .wrapper {
     position: relative;
     top: 150px;
@@ -16,4 +24,8 @@
     left: 0;
     text-align: center;
     border-bottom: 1px solid #ffaf25; 
+}
+
+footer small {
+    display: none;   
 }
