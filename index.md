@@ -2,7 +2,7 @@
 
 ## Terms and Conditions
 
-Version 1.0 - 01 March 2018
+Version 1.0 (01 March 2018)
 ### What is Duesday 🤔
 
 Duesday is the brand name of CFT Group Ltd, a limited company registered in sunny Cornwall.
