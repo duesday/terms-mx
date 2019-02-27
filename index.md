@@ -19,12 +19,12 @@ We will contact you via the Duesday app, or through your email, phone or home ad
 
 To use our service you have to verify your name, mobile number, email address and residential address. We are required to collect these details to prevent Duesday being used for fraud or money laundering. We store all of your details in a secretly encrypted format inside a secure digital vault.
 
-From time to time or when your details change we may ask you to re-verify the personal information we hold for you. If you don't verify those details we may not be able to pay bills on your behalf and you must find other ways to pay the company or service provider which billed you. 
+From time to time or when your details change we may ask you to re-verify the personal information we hold for you. If you don't verify those details we may not be able to pay bills on your behalf and you must find other ways to pay the company or provider which billed you. 
 
 To pay your bills through Duesday you need to provide us with your bank account and/or card details and agree to our terms. We store your bank account details in secretly encrypted formats in a secure digital vault. Your payment card details are not stored by us at all, but instead we receive a secure payment token for your bill payments which can only be used by Duesday.
 ### How we pay your bills 💷
 
-We use Direct Debits to pay bills from your bank account and continuous payment authority to pay bills with your Visa or Mastercard. Our Duesday app lets you see which bills need to be paid and when they're due. For some bills, but not all, you can change when and how the payment is taken. The amount you pay will be transferred to our Duesday account and from there to the company or service provider which billed you. 
+We use Direct Debits to pay bills from your bank account and continuous payment authority to pay bills with your Visa or Mastercard. Our Duesday app lets you see which bills need to be paid and when they're due. For some bills, but not all, you can change when and how the payment is taken. The amount you pay will be transferred to our Duesday account and from there to the company or provider which billed you. 
 
 
 ### If something goes wrong 😱
@@ -57,7 +57,7 @@ If you don’t agree to these changes, you can let us know and we will close you
 
 To close your account, please get in touch with us. Any money you owe us will have to be repaid before the account can be closed. Once the account is closed, all your preferences will be deleted and no future bills will be paid through Duesday.
 
-This step cannot be undone. Your Duesday account will be closed and all your taps and preferences will be deleted.
+This step cannot be undone. Your Duesday account will be closed and all your bills and preferences will be removed.
 
 We can close your account by giving you at least two months’ notice. We may close your account or suspend use of your app immediately if we believe you have:
 
