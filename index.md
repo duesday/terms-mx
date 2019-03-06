@@ -1,4 +1,4 @@
-[![Duesday logo](http://duesday.com/img/logo-duesday-full-colour@2x.png)](http://duesday.com/)
+[![Duesday logo](assets/img/logo-duesday-full-colour@2x.png)](http://duesday.com/)
 
 ## Terms and Conditions
 
