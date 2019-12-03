@@ -5,14 +5,14 @@
 Version 1.0 (01 March 2018)
 ### What is Duesday 🤔
 
-Duesday is the brand name of CFT Group Ltd, a limited company registered in sunny Cornwall.
+Duesday is a limited company registered in sunny Cornwall.
 
-The legal terms in this document (English law applies) are between you and CFT Group Ltd (Duesday/us/we) and you agree to them by using the Duesday app.
+The legal terms in this document (English law applies) are between you and Duesday Ltd (Duesday/us/we) and you agree to them by using the Duesday app.
 
 You should read this document along with our Privacy Policy.
 ### How to contact us 💬
 
-You can contact us through the Duesday app, by email at support@duesday.com, by phone on 03331122999 or by letter to: Duesday, 2 Pike Street, Liskeard, PL14 3HS.
+You can contact us through the Duesday app, by email at support@duesday.com, by phone on 03331122999 or by letter to: Duesday, 2 Pike Street, Liskeard, PL14 3JE.
 
 We will contact you via the Duesday app, or through your email, phone or home address. Please let us know if any of these change! You can update your details directly in the app.
 ### Setting up your details 🔒
